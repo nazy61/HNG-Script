@@ -1,9 +1,10 @@
-fullname = 'Elijah Edun'
-hngId= 'HNG-02781'
-language= 'Python'
-email= 'edunelijah18@gmail.com'
+#Name: Elijah Edun
+#Task: HNG Task for stage 2
 
-def hngProfile():
-    return f"Hello World, this is {fullname} with HNGi7 ID {hngId} and email is {email} using {language} for stage 2 task"
-    
-print(hngProfile())
+name = "Elijah Edun"
+hngid = "HNG-02781"
+email = "edunelijah18@gmail.com"
+language = "python"
+
+print("Hello World, this is " + name + " with HNGi7 ID " + hngid + " and email " + email + " using " + language + " for stage 2 task")
+
